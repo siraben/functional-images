@@ -1,0 +1,6 @@
+*.o
+*.hi
+main
+.stack-work
+.ccls-cache
+dist-newstyle
